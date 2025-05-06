@@ -1,4 +1,5 @@
 # Color-Space-Visualization-and-Chroma-Key-Compositor
+
 # Task One - Color Space Component Visualization
 
 This task demonstrates the conversion of a color image into different color spaces (e.g., CIE-XYZ, CIE-Lab, YCrCb, HSB) and visualizes their individual components (channels) in gray-scale.
@@ -35,3 +36,11 @@ This task demonstrates Chroma Keying, a common technique in video and photo edit
 - Python 3.x
 - OpenCV
 - NumPy
+
+
+---
+
+🎓 **Coursework Information**  
+This project was developed as part of an assignment for the module **CSCI935 Computer Vision: Algorithms and Systems** at the  
+**School of Computing and Information Technology**, The University of Wollongong.
+
